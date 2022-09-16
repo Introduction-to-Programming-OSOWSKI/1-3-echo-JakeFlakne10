@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo(y)
-    return y*5
+def echo(y, x)
+    return y*x
 
-print(echo(Hello))
+print(echo(Hello, 5))
